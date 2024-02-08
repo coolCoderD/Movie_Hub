@@ -1,4 +1,5 @@
 # MovieHub App
+# Live Link:- https://65c44420d7d2ae1b3bb8d6d9--bright-florentine-d50508.netlify.app/
 
 MovieHub is a React application that allows users to search for and display information about movies. It uses the OMDB API to fetch movie data.
 
